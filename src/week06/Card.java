@@ -21,7 +21,7 @@ public class Card {
 	//Re adding the default constructor
 	public Card() {}
 	
-	//		b. Getters & Setters 
+	//Getters & Setters 
 	public String getName() {
 		return name;
 	}
